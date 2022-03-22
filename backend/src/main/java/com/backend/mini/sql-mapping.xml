@@ -4,6 +4,11 @@
 
 <mapper namespace="member">
 
+<select id="productlist" resultType="productdto" parameterType="String">
+select * from member_table where id=#{id}
+</select>
+
+
 
 <select id="memberlist" resultType="memberdto">
 select * from member_table

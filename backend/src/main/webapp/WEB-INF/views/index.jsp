@@ -9,7 +9,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-        <script type="text/javascript" src="recources/js/index.js"></script>
+        <script type="text/javascript" src="resources/js/index.js"></script>
         <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png"/>
     </head>
     <body>
