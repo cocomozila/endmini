@@ -9,7 +9,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-        <script type="text/javascript" src="index.js"></script>
+        <script type="text/javascript" src="recources/js/index.js"></script>
         <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png"/>
     </head>
     <body>
@@ -49,16 +49,16 @@
                 <div id="right_btn"></div>
                 <div id="main_img_scroll">
                     <div class="inner" id="img1">
-                        <img src="img/main1.jpg">
+                        <img src="resources/css/img/main1.jpg">
                     </div>
                     <div class="inner" id="img2">
-                        <img src="img/main2.jpg">
+                        <img src="resources/css/img/main2.jpg">
                     </div>
                     <div class="inner" id="img3">
-                        <img src="img/main3.jpg">
+                        <img src="resources/css/img/main3.jpg">
                     </div>
                     <div class="inner" id="img1">
-                        <img src="img/main1.jpg">
+                        <img src="resources/css/img/main1.jpg">
                     </div>
                 </div><!-- main image end -->
             </div>
