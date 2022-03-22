@@ -67,6 +67,10 @@ public class ProductDTO {
 	public void setPvalue(int pvalue) {
 		this.pvalue = pvalue;
 	}
+	public int insertproduct(ProductDTO dto) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 	
 	
 	
